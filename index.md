@@ -21,5 +21,6 @@ I've been coding for 5 years and enjoy working with Python.
 ### Things I have done so far in Lab 1 
  - [x] Remembered a lot of stuff from CSE 15L
  - [ ] Created my own software application
-  
+
+Now I am directing towards an [empty file](other.md) 
      
