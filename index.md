@@ -23,4 +23,5 @@ I've been coding for 5 years and enjoy working with Python.
  - [ ] Created my own software application
 
 Now I am directing towards an [empty file](other.md) 
-     
+
+To end this LAB1, here is a picture of me trying to look cool before I sip up of my coffee [here you go](IMG_7736.jpeg)
