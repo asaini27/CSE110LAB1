@@ -11,3 +11,9 @@ I've been coding for 5 years and enjoy working with Python.
   ```
   print("Hello World")
   ```
+- Some things I am thankful are:
+  1. My family
+  2. My friends
+  3. Opportunities
+  
+     
