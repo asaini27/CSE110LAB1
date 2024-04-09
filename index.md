@@ -12,6 +12,7 @@ I've been coding for 5 years and enjoy working with Python.
   ```
   print("Hello World")
   ```
+  If you want to know how long I have been coding [CLICK HERE](#about-me-as-a-programmer)
 - Some things I am thankful are:
   1. My family
   2. My friends
